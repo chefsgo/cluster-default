@@ -1,2 +1,4 @@
 # cluster-default
-chef-go gossip cluster driver.
+
+chef-go default cluster driver
+

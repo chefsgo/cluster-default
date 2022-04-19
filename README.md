@@ -1,4 +1,4 @@
 # cluster-default
 
-chef-go default cluster driver
+chefsgo default cluster driver
 

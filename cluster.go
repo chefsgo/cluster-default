@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/chef-go/chef"
+	"github.com/chefsgo/chef"
 )
 
 //默认logger驱动

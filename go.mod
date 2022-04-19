@@ -1,4 +1,4 @@
-module github.com/chef-go/cluster-default
+module github.com/chefsgo/cluster-default
 
 go 1.17
 
